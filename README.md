@@ -6,9 +6,9 @@ The Library Management System is a web application built using Spring Boot 3.3.0
 
 ### User
 - **Signup/Login:** Users can register and log in to the system.
-![Signup]![Screenshot (776)](https://github.com/Bala1703/Library-Management-System/assets/138019223/176a06e9-54cd-45f5-9e5b-001cf41ae63e)
+![Signup](https://github.com/Bala1703/Library-Management-System/assets/138019223/176a06e9-54cd-45f5-9e5b-001cf41ae63e)
 
-![Login]![Login](https://github.com/Bala1703/Library-Management-System/assets/138019223/bd122a80-c998-4b68-ac22-b62c1944ebf2)
+![Login](https://github.com/Bala1703/Library-Management-System/assets/138019223/bd122a80-c998-4b68-ac22-b62c1944ebf2)
 
 
 ### Admin
