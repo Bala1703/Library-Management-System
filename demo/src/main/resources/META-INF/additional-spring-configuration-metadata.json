@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "spring.session.store-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.session.store-type'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring.security.user.passwordEncoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.passwordEncoder'"
+  },
+  {
+    "name": "spring-boot.ls.problem.application-properties.PROP_UNKNOWN_PROPERTY\"",
+    "type": "java.lang.String",
+    "description": "A description for 'spring-boot.ls.problem.application-properties.PROP_UNKNOWN_PROPERTY\"'"
+  },
+  {
+    "name": "spring.security.user.password-encoder",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.user.password-encoder'"
+  }
+]}
