@@ -6,30 +6,30 @@ The Library Management System is a web application built using Spring Boot 3.3.0
 
 ### User
 - **Signup/Login:** Users can register and log in to the system.
-![Signup](https://drive.google.com/file/d/1Jg3HYahlrszzhDeE8KzwgZq69C6HJzW7/view?usp=sharing)
-![Login](https://drive.google.com/file/d/1mhzHpQw8Scuzs9yReOLojX4geM5qGrRM/view?usp=sharing)
+![Signup](https://drive.google.com/file/d/1Jg3HYahlrszzhDeE8KzwgZq69C6HJzW7/view)
+![Login](https://drive.google.com/file/d/1mhzHpQw8Scuzs9yReOLojX4geM5qGrRM/view)
 
 ### Admin
 - **Add Book:** Admin can add new books to the library.
-![AddBook](https://drive.google.com/file/d/1Yu4Y2AIGSSsnel0jbGzdClTqI4CW1v1E/view?usp=sharing)
+![AddBook](https://drive.google.com/file/d/1Yu4Y2AIGSSsnel0jbGzdClTqI4CW1v1E/view)
 
 - **Update Book:** Admin can update details of existing books.
-![UpdateBook](https://drive.google.com/file/d/1s1MsecH0Bu1xwWbagi4nMvww75rybP2I/view?usp=sharing)
+![UpdateBook](https://drive.google.com/file/d/1s1MsecH0Bu1xwWbagi4nMvww75rybP2I/view)
 
 - **Get Books:** Admin can view all books in the library.
-![GetBook](https://drive.google.com/file/d/1o3CI2w2i4RBDC12hvblbpXBQShautA_7/view?usp=sharing)
+![GetBook](https://drive.google.com/file/d/1o3CI2w2i4RBDC12hvblbpXBQShautA_7/view)
 
 - **Delete Book:** Admin can remove books from the library.
-![DeleteBook](https://drive.google.com/file/d/1RPjAS4UOAkScs5OvCXFzqhYUGdqjUcBR/view?usp=sharing)
+![DeleteBook](https://drive.google.com/file/d/1RPjAS4UOAkScs5OvCXFzqhYUGdqjUcBR/view)
 
 - **Issue Book:** Books can be issued to users by the admin based on the book ID and admission number.
-![IssueBook](https://drive.google.com/file/d/18WruQgQ6mhgvHYGZs7U3--Lww69xmXdM/view?usp=sharing)
+![IssueBook](https://drive.google.com/file/d/18WruQgQ6mhgvHYGZs7U3--Lww69xmXdM/view)
 
 - **Return Book:** Admin can update the database with the return details based on the book ID and admission number.
-![ReturnBook](https://drive.google.com/file/d/1jP_Xteuovi_uw88xGUe5ynaLvWhfnOHo/view?usp=sharing)
+![ReturnBook](https://drive.google.com/file/d/1jP_Xteuovi_uw88xGUe5ynaLvWhfnOHo/view)
 
 - **MySQL Database Transactions:** This screenshot displays MySQL transactions related to returning books, including details such as user information, book details, withdrawal date, and return date. Admin updates the database with the return details based on the book ID and admission number.
-![MySQL Transactions](https://drive.google.com/file/d/1myIuN5RnxYV8LQAwz5DFEYyn110l8Ppr/view?usp=sharing)
+![MySQL Transactions](https://drive.google.com/file/d/1myIuN5RnxYV8LQAwz5DFEYyn110l8Ppr/view)
 
 
 
