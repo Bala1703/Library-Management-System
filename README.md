@@ -6,31 +6,39 @@ The Library Management System is a web application built using Spring Boot 3.3.0
 
 ### User
 - **Signup/Login:** Users can register and log in to the system.
-![Signup](![Screenshot (776)](https://github.com/Bala1703/Library-Management-System/assets/138019223/176a06e9-54cd-45f5-9e5b-001cf41ae63e)
-)
-![Login](https://drive.google.com/file/d/1mhzHpQw8Scuzs9yReOLojX4geM5qGrRM/view)
+![Signup]![Screenshot (776)](https://github.com/Bala1703/Library-Management-System/assets/138019223/176a06e9-54cd-45f5-9e5b-001cf41ae63e)
+
+![Login]![Login](https://github.com/Bala1703/Library-Management-System/assets/138019223/bd122a80-c998-4b68-ac22-b62c1944ebf2)
+
 
 ### Admin
 - **Add Book:** Admin can add new books to the library.
-![AddBook](https://drive.google.com/file/d/1Yu4Y2AIGSSsnel0jbGzdClTqI4CW1v1E/view)
+![AddBook](![AddBook](https://github.com/Bala1703/Library-Management-System/assets/138019223/cf5d980c-fd68-4177-a116-96d1e5c43dc6)
+)
 
 - **Update Book:** Admin can update details of existing books.
-![UpdateBook](https://drive.google.com/file/d/1s1MsecH0Bu1xwWbagi4nMvww75rybP2I/view)
+![UpdateBook](![UpdateBook](https://github.com/Bala1703/Library-Management-System/assets/138019223/15a9cabc-35fa-462c-aeda-a252e601ca74)
+)
 
 - **Get Books:** Admin can view all books in the library.
-![GetBook](https://drive.google.com/file/d/1o3CI2w2i4RBDC12hvblbpXBQShautA_7/view)
+![GetBook](![GetBooks](https://github.com/Bala1703/Library-Management-System/assets/138019223/c4d8fb6d-ce4d-49c4-8168-38e8805dfb42)
+)
 
 - **Delete Book:** Admin can remove books from the library.
-![DeleteBook](https://drive.google.com/file/d/1RPjAS4UOAkScs5OvCXFzqhYUGdqjUcBR/view)
+![DeleteBook](![DeleteBook](https://github.com/Bala1703/Library-Management-System/assets/138019223/6148a028-6d02-4e59-8ec5-24b2f263029c)
+)
 
 - **Issue Book:** Books can be issued to users by the admin based on the book ID and admission number.
-![IssueBook](https://drive.google.com/file/d/18WruQgQ6mhgvHYGZs7U3--Lww69xmXdM/view)
+![IssueBook](![Issue](https://github.com/Bala1703/Library-Management-System/assets/138019223/a82583e5-7c5b-4f16-9019-b122bc4502f8)
+)
 
 - **Return Book:** Admin can update the database with the return details based on the book ID and admission number.
-![ReturnBook](https://drive.google.com/file/d/1jP_Xteuovi_uw88xGUe5ynaLvWhfnOHo/view)
+![ReturnBook](![Return](https://github.com/Bala1703/Library-Management-System/assets/138019223/8ddce3e3-b971-44d4-9fce-61b01cb36dcf)
+)
 
 - **MySQL Database Transactions:** This screenshot displays MySQL transactions related to returning books, including details such as user information, book details, withdrawal date, and return date. Admin updates the database with the return details based on the book ID and admission number.
-![MySQL Transactions](https://drive.google.com/file/d/1myIuN5RnxYV8LQAwz5DFEYyn110l8Ppr/view)
+![MySQL Transactions](![MySQL](https://github.com/Bala1703/Library-Management-System/assets/138019223/d1eb2776-e7ba-419f-ac79-1f17a47c3387)
+)
 
 
 
